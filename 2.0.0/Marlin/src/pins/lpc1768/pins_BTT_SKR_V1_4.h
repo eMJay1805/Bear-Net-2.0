@@ -498,7 +498,7 @@
 // NeoPixel LED
 //
 #ifndef NEOPIXEL_PIN
-  #define NEOPIXEL_PIN                     P1_24
+  #define NEOPIXEL_PIN                     EXP2_05_PIN
 #endif
 
 /**
